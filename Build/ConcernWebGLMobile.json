@@ -1,0 +1,16 @@
+{
+"companyName": "Team Delta",
+"productName": "Sustainimals",
+"productVersion": "0.1",
+"dataUrl": "ConcernWebGLMobile.data.unityweb",
+"wasmCodeUrl": "ConcernWebGLMobile.wasm.code.unityweb",
+"wasmFrameworkUrl": "ConcernWebGLMobile.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#00734A",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
